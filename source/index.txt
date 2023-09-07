@@ -3,9 +3,9 @@
 :nav-show-all-products: true
 :title: Docs Home
 
-==================
-BRANCH TEST-DEPLOY
-==================
+============================================
+BRANCH TEST-DEPLOY - enabled CHATBOT via SSM
+============================================
 
 .. ia::
 
